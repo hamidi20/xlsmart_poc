@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_KoiaAKPNEeqxBtqScJi_wQ" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="_KoiaAaPNEeqxBtqScJi_wQ" comment="" name="parameter_etl_job_run_id" prompt="parameter_etl_job_run_id?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_KoiaAqPNEeqxBtqScJi_wQ" comment="" name="parameter_etl_job_date" prompt="parameter_etl_job_date?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_KoiaA6PNEeqxBtqScJi_wQ" comment="" name="parameter_record_insert_datetime" prompt="parameter_record_insert_datetime?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_KoiaBKPNEeqxBtqScJi_wQ" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="_KoiaBaPNEeqxBtqScJi_wQ" comment="" name="parameter_etl_job_run_id" prompt="parameter_etl_job_run_id?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_KoiaBqPNEeqxBtqScJi_wQ" comment="" name="parameter_etl_job_date" prompt="parameter_etl_job_date?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_KoiaB6PNEeqxBtqScJi_wQ" comment="" name="parameter_record_insert_datetime" prompt="parameter_record_insert_datetime?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_KoiaCKPNEeqxBtqScJi_wQ" confirmationNeeded="false" name="TEST">
+    <contextParameter xmi:id="_KoiaCaPNEeqxBtqScJi_wQ" comment="" name="parameter_etl_job_run_id" prompt="parameter_etl_job_run_id?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_KoiaCqPNEeqxBtqScJi_wQ" comment="" name="parameter_etl_job_date" prompt="parameter_etl_job_date?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_KoiaC6PNEeqxBtqScJi_wQ" comment="" name="parameter_record_insert_datetime" prompt="parameter_record_insert_datetime?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
